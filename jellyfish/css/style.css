@@ -928,7 +928,7 @@ header a {
   padding: 5px;
   border-radius: 100px;
   font-size: 1.5em;
-  background: #6d18e7;
+  background: #f58529;
 }
 
 header a:hover {
@@ -937,7 +937,7 @@ header a:hover {
 
 
 header select {
-  background: #36d355;
+  background: #2ca4cf;
   color: #000;
   border: 0;
   padding: 5px;
@@ -976,7 +976,7 @@ header select {
 .amo-box-g {
   padding: 25px;
   border-radius: 20px;
-  border: 3px #36d355 solid;
+  border: 3px #2ca4cf solid;
   background: rgba(0, 0, 0, 0.80);
   display: flex;
     flex-direction: column;
@@ -996,14 +996,14 @@ header select {
 }
 
 .data-row .value {
-  color: #36d355;
+  color: #2ca4cf;
 }
 
 .data-input {
   padding: 5px 10px;
   border-radius: 33px;
-  border: 3px #36d355 solid;
-  color: #36d355;
+  border: 3px #2ca4cf solid;
+  color: #2ca4cf;
   font-size: 1.75em;
   position: relative;
 }
@@ -1011,7 +1011,7 @@ header select {
 .data-input input {
   background: transparent;
   border: 0;
-  color: #36d355;
+  color: #2ca4cf;
   text-align: center;
   width: 100%;
 }
@@ -1027,16 +1027,16 @@ header select {
   display: block;
   padding: 5px 10px;
   border-radius: 33px;
-  border: 3px #36d355 solid;
+  border: 3px #2ca4cf solid;
   font-size: 1.75em;
   text-align: center;
   color: #000;
-  background: #36d355;
+  background: #2ca4cf;
 }
 
 .amo-box-g .btn01:hover {
-  background: #11ff41;
-  border: 3px #11ff41 solid;
+  background: #4aebeb;
+  border: 3px #4aebeb solid;
 }
 
 .amo-box-g .btn02 {
@@ -1044,22 +1044,22 @@ header select {
   display: block;
   padding: 5px 10px;
   border-radius: 33px;
-  border: 3px #36d355 solid;
+  border: 3px #2ca4cf solid;
   font-size: 1.75em;
   text-align: center;
   color: #000;
-  background: #36d355;
+  background: #2ca4cf;
 }
 
 .amo-box-g .btn02:hover {
-  background: #11ff41;
-  border: 3px #11ff41 solid;
+  background: #4aebeb;
+  border: 3px #4aebeb solid;
 }
 
 .amo-box-p {
   padding: 10px 25px 25px 25px;
   border-radius: 20px;
-  border: 3px #803cff solid;
+  border: 3px #eb4e3d solid;
   background: rgba(0, 0, 0, 0.80);
   display: flex;
     flex-direction: column;
@@ -1075,7 +1075,7 @@ header select {
 }
 .data-title {
   font-size: 2.8em;
-  color: #803cff
+  color: #eb4e3d
 }
 
 .data-row2 {
@@ -1090,7 +1090,7 @@ header select {
 }
 
 .data-row2 .value {
-  color: #803cff;
+  color: #eb4e3d;
 }
 
 .amo-box-p .btn03 {
@@ -1098,23 +1098,23 @@ header select {
   display: block;
   padding: 5px 10px;
   border-radius: 33px;
-  border: 3px #6d18e7 solid;
+  border: 3px #f58529 solid;
   font-size: 1.75em;
   text-align: center;
   color: #fff;
-  background: #6d18e7;
+  background: #f58529;
 }
 
 .amo-box-p .btn03:hover {
-  background: #8b38ff;
-  border: 3px #8b38ff solid;
+  background: #ea1d83;
+  border: 3px #ea1d83 solid;
 }
 
 .data-address {
 
   border-radius: 33px;
-  border: 3px #6d18e7 solid;
-  color: #6d18e7;
+  border: 3px #f58529 solid;
+  color: #f58529;
   font-size: 1.75em;
   display: flex;
   align-items: center;
@@ -1124,14 +1124,14 @@ header select {
 .data-address a {
   padding: 5px 10px;
   display: block;
-  background: #6d18e7;
+  background: #f58529;
   color: #fff;
   text-align: center;
   width: 20%;
 }
 
 .data-address a:hover {
-  background: #8b38ff;
+  background: #ea1d83;
 }
 
 .data-address p {
@@ -1170,13 +1170,13 @@ footer a {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #803cff;
+  background: #eb4e3d;
   border-radius: 10px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #803cff;
+  background: #eb4e3d;
 }
 
 .float-box{
@@ -1212,7 +1212,7 @@ footer a {
 .timer .title{
   font-size: 2em;
   margin-bottom: -15px;
-  color:#43ff69;
+  color:#25f9c4;
 }
 .gradient-border {
   --borderWidth: 3px;
@@ -1227,7 +1227,7 @@ footer a {
   left: calc(-1 * var(--borderWidth));
   height: calc(100% + var(--borderWidth) * 2);
   width: calc(100% + var(--borderWidth) * 2);
-  background: linear-gradient(60deg, #803cff, #43ff69);
+  background: linear-gradient(60deg, #eb4e3d, #f5e618);
   border-radius: 20px;
   z-index: -1;
   animation: animatedgradient 2s ease alternate infinite;
@@ -1250,7 +1250,7 @@ footer a {
 ul#countdown {
   width: 100%;
   margin: 0 auto;
-  color: #fff;
+  color: #71dee4e0;
   border-width: 1px 0;
   overflow: hidden;
   font-weight: bold;
@@ -1265,7 +1265,7 @@ ul#countdown li {
   text-align: center;
 }
 ul#countdown li .label {
-  color: #43ff69;
+  color: #f4772a;
   font-size: 0.35em;
   text-transform: uppercase;
 }
